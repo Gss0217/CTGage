@@ -3,7 +3,7 @@
 This repository provides the official PyTorch implementation of the CTGage model described in our paper:
 **"Artificial Intelligence-derived Cardiotocography Age as a Digital Biomarker for Predicting Future Adverse Pregnancy Outcomes".**
 
-CTGage is a 1D-CNN that predicts fetal biological age directly from raw CTG time-series, enabling a low-cost, non-invasive digital biomarker (CTGage-gap) for adverse-pregnancy-risk stratification.
+CTGage is a low-cost, non-invasive digital biomarker for predicting the risk of adverse pregnancy outcomes by directly predicting fetal biological age from CTG time series using deep learning models.
 ## Acknowledgement
 Many thanks for these repos for their great contribution!
 
